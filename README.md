@@ -26,4 +26,4 @@ Aspiring Cloud Engineer focused on Google Cloud architecture, security, and infr
 
 ## Career Goal
 
-Preparing for a Cloud Engineer / Cloud Security Engineer role.
+Preparing for a Cloud Engineer / Cloud Security Engineer role..
